@@ -29,7 +29,11 @@ app.use((req, res) => {
   res.sendFile(__dirname + '/view/index.html');
 });
 
+module.exports = app;
 
+
+
+// Best Practice
 // // Import Node's built‑in 'path' module to safely handle file and directory paths
 // const path = require('path');
 // // Serve all static files (HTML, CSS, JS, images, etc.) from the 'view' folder
@@ -39,7 +43,3 @@ app.use((req, res) => {
 // app.use((req, res) => {
 //   res.sendFile(path.join(__dirname, 'view', 'index.html'));
 // });
-
-
-module.exports = app;
-
