@@ -1,9 +1,10 @@
 # Usage
 
 
-### Deployment
+<!-- ### Deployment
 
-Please check this [reading](./temp/deployment.md).
+Please check this [reading](./temp/deployment.md). 
+-->
 
 ---
 ### Development
