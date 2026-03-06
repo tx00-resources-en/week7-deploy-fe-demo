@@ -9,7 +9,7 @@ const Navbar = ({ isAuthenticated, setIsAuthenticated }) => {
   return (
     <nav className="navbar">
       <Link to="/">
-        <h1>React Jobs</h1>
+        <h1>React Jobs 2027</h1>
       </Link>
       <div className="links">
         {isAuthenticated && (
