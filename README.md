@@ -1,10 +1,7 @@
+<!-- 
 # Usage
 
 
-<!-- ### Deployment
-
-Please check this [reading](./temp/deployment.md). 
--->
 
 ---
 ### Development
@@ -53,3 +50,4 @@ Please check this [reading](./temp/deployment.md).
 - **Frontend Environment Variables**: Make sure you configure the correct API URL (`VITE_API_URL`) in your frontend's environment variables when deploying to production.
 - **CORS Configuration**: You can use `ALLOWED_ORIGIN` to control which frontend is allowed to communicate with the backend in production. 
 
+-->
